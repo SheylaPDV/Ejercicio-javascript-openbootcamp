@@ -19,7 +19,7 @@ console.log(alturaRedondeadaArriba);
 let pesoRedondeado = Math.floor(peso);
 console.log(pesoRedondeado);
 // - Una variable que contenga si "el máximo valor que se puede obtener en Javascript + 1" es igual al máximo valor que se puede obtener en Javascript
-
+// (No comprendo el enunciado)
 let maximoValor = Number.MAX_VALUE;
 console.log(
   "el máximo valor que se puede obtener en Javascript: ",
